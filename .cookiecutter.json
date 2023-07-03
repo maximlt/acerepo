@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/mliquet/work/ace2023/01_accelerate",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "maximlt",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "mail@claudiojolowicz.com",
+  "friendly_name": "acerepo",
+  "github_user": "maximlt",
+  "license": "MIT",
+  "package_name": "acerepo",
+  "project_name": "acerepo",
+  "version": "0.0.0"
+}
